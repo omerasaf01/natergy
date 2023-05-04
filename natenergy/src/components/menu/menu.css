@@ -1,0 +1,14 @@
+.menu {
+    background-color: #12121f;
+    padding: 25px;
+    position: sticky;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+:root {
+    --main: blue;
+}
+
+* {
+    margin: 0;
+}
